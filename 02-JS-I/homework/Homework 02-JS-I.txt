@@ -1,0 +1,12 @@
+HOMEWORK 02-JS-I
+
+
+1.VARIABLES: Almacena un valor de cualquier tipo apartir de una letra o palabra que quereamos y nos permite volver a utilizarlo en cualquier momento.
+
+STRINGS: Almacena cualquier texto que queramos, entre comillas dobles o simples.
+
+FUNCIONES: Son instrucciones que podemos crear para que ocurran ciertas cosas que queramos. En las funciones utilizamos "argumentos" que son variables que almacenan un valor para que funcione lo que queramos. Una vez sucede esto, podemos pedir que nos devuelva el resultado de lo que se logró utilizando una declaración llamada "RETURN".
+
+DECLARACIÓN "If": Se utiliza para que la funcion verifique que algo está sucediendo y si es así que realice una acción.
+
+VALORES BOOLEANOS: son resultados que se obtienen de la verificación de que algo sucede o no, existen valores "true" que significa verdadero y los valores "False" que significa falso.
